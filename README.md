@@ -200,6 +200,8 @@ If any arguments are omitted, Claude will ask for them interactively.
 4. Verifies with `make test` and `make lint`
 
 ## Contributing
+## Contributing
+
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to get started.
 
